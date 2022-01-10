@@ -36,6 +36,7 @@ public class Test {
                         "is he annoying: " +
                         tomyinit.annoying
         );
+        System.out.println("lalalalalallallalalalall");
 
     }
 }
