@@ -36,8 +36,10 @@ public class Test {
                         "is he annoying: " +
                         tomyinit.annoying
         );
+
         System.out.println("heolo hdsm jds");
-        System.out.println("h");
+        System.out.println("lalalalalallallalalalall");
+
 
     }
 }
